@@ -3,7 +3,8 @@
 *2.DLGN_DLGN_SF_Tabular* -- For running DLGN and DLGN-SF models on Tabular datasets mentioned in the paper.\
 *3.ML_Synthetic* -- To run all ML models like Linear and Non-Linear SVM, CART, Random Forest and ReLU Network models on Synthetic datasets on the hyperparameter set and choose the best test accuracy.\
 *4.ML_Tabular* -- To run all ML models like Linear and Non-Linear SVM, CART, Random Forest and ReLU Network models on Tabular datasets mentioned in the paper on the hyperparameter set and choose the best test accuracy.\
-*5.Tao_Synthetic_Tabular* -- To run the TAO algorithm on the Synthetic dataset, set DATA_NAME="syn" and to run it on the tabular dataset, set DATA_NAME="Tabular". TAO hyperparameters can be adjusted to find the best model.
+*5.Tao_Synthetic_Tabular* -- To run the TAO algorithm on the Synthetic dataset, set DATA_NAME="syn" and to run it on the tabular dataset, set DATA_NAME="Tabular". TAO hyperparameters can be adjusted to find the best model.\
+*6.SDT_Synthetic* and *7.SDT_Tabular* -- To run the SDT algorithm on the Synthetic and tabular datasets.
 
 
 
