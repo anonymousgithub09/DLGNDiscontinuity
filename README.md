@@ -5,7 +5,9 @@
 *4.ML_Tabular* -- To run all ML models like Linear and Non-Linear SVM, CART, Random Forest and ReLU Network models on Tabular datasets mentioned in the paper on the hyperparameter set and choose the best test accuracy.\
 *5.Tao_Synthetic_Tabular* -- To run the TAO algorithm on the Synthetic dataset, set DATA_NAME="syn" and to run it on the tabular dataset, set DATA_NAME="Tabular". TAO hyperparameters can be adjusted to find the best model.\
 *6.SDT_Synthetic* and *7.SDT_Tabular* -- To run the SDT algorithm on the Synthetic and tabular datasets.\
-*8.ZanDT_Synthetic_Tabular* -- To run Zan-DT on a Synthetic dataset, use "syn" as an argument, and for tabular datasets, use "UCI".
+*8.ZanDT_Synthetic_Tabular* -- To run Zan-DT on a Synthetic dataset, use "syn" as an argument, and for tabular datasets, use "UCI".\
+*9.Disjunctive_Normal_Networks* -- To run Disnn on Synthetic dataset, use "syn" as an argument, and for tabular datasets, use "UCI".\
+*10.Gated Linear Networks* -- We use https://github.com/aiwabdn/pygln.git code for gln on our datasets. To run gln on Synthetic dataset, use "syn" as an argument, and for tabular datasets, use "UCI".\
 
 
 
