@@ -8,6 +8,7 @@
 *8.ZanDT_Synthetic_Tabular* -- To run Zan-DT on a Synthetic dataset, use "syn" as an argument, and for tabular datasets, use "UCI".\
 *9.Disjunctive_Normal_Networks* -- To run Disnn on Synthetic dataset, use "syn" as an argument, and for tabular datasets, use "UCI".\
 *10.Gated Linear Networks* -- We use https://github.com/aiwabdn/pygln.git code for gln on our datasets. To run gln on Synthetic dataset, use "syn" as an argument, and for tabular datasets, use "UCI".\
+*11.DLGN_VT_Tabular* -- To run DLGN-VT on tabular dataset
 
 
 
